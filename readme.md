@@ -5,19 +5,19 @@ Carga Horária: 114h.
 
 ## Apresentação
 
-- [ ] Boas-vindas ao Bootcamp Banco Carrefour Data Engineer.
-- [ ] Bem-vindo à DIO.
+- [X] Boas-vindas ao Bootcamp Banco Carrefour Data Engineer.
+- [X] Bem-vindo à DIO.
 
 ## Sistema Operacional e Git
 
-- [ ] Introdução ao Git e ao Github.
-- [ ] Linux: A introdução ao sistema operacional.
-- [ ] Shell scrip - Manipulando Arquivos.
+- [X] Introdução ao Git e ao Github.
+- [X] Linux: A introdução ao sistema operacional.
+- [X] Shell scrip - Manipulando Arquivos.
 
 ## Introdução a Ciência de Dados e Engenharia de Dados
 
-- [ ] Introdução a Engenharia de Dados.
-- [ ] Introdução a Ciência de Dados.
+- [X] Introdução a Engenharia de Dados.
+- [X] Introdução a Ciência de Dados.
 
 ## Arquitetura de Sistemas
 
