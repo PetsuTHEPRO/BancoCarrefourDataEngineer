@@ -17,3 +17,27 @@ Origem desses dados pode ser mobile, sensores, loT, Mídias Sociais, Arquivos si
 - Sem estrutura previamente planejada.
 - Dados flexível e dinâmicos.
 - Complexidade em consultas.
+
+~ 80% dos dados encontrados são do tipo Não-estruturados, os 20% restante são de dados Estruturados.
+
+## Crescimento dos Dados
+
+Dados divulgados pelo portal Statista mostra que os dados vão ter um aumento expondencial 2010-2035(in zettabytes).
+
+Ano   | Dados   |
+----- | ------- |
+2010  | 2       |
+2015  | 12      |
+2018  | 33      |
+2020  | 47      |
+2025  | 175     |
+2030  | 612     |
+2035  | 2.142   |
+
+*Desafios encontrados em decorrente do aumento*
+
+- Os dados não são estruturados.
+- Como vamos processar todos os dados, o quanto vamos precisar para processar todo o volume de dados.
+- Como vamos visualizar a informação, de forma simples e fácil e que tenha valor.
+- Privacidade dos dados.
+
