@@ -115,8 +115,6 @@ Dados + Processamento = Informação. (Com contexto baseados em negócios)
 
 ## Estratégia de Dados
 
-**Estratégia de Negócio**: Planejamento estratégico de negócio.  
-+  
-**Estratégia de Dados**: Estratégia de dados conectada a estratégia de negócio.  
-=  
-**Alavanca de resultados de negócio**: Alavanca os resultados de negócio e possibilita novas avenidas de negócio.  
+*Estratégia de Negócio*: Planejamento estratégico de negócio.
+*Estratégia de Dados*: Estratégia de dados conectada a estratégia de negócio.
+*Alavanca de resultados de negócio*: Alavanca os resultados de negócio e possibilita novas avenidas de negócio.  
