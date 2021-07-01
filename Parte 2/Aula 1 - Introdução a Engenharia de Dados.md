@@ -101,3 +101,22 @@ Dados + Processamento = Informação. (Com contexto baseados em negócios)
 
 ## DPO - Data Protection Officer
 
+> Com a lei Geral da Proteção de Dados(LGPD), o DPO também tornou um outro perfil de profissional especializado que atua com proteção de dados.
+> Além de conhecer bem o processo de Ciência de Dados, o DPO precisa conhecer as leis de proteção aos dados, suas implicações, regulamentação e segurança.
+
+## DataOPS
+
+> É uma prática de gerenciamento de dados colaborativo focada em melhorar a comunicação, intregação e automação de fluxos de dados entre gerenciadores de dados e consumidores de dados em uma organização.
+>O objetivo do DataOps é entregar valor com mais rapidez, criando entrega previsível e gerenciamento de mundanças de dados, modelos de dados e artefatos relacionados.
+
+## Data Observability
+
+> É a capacidade de uma organização de compreender totalmente a integridade dos dados, eliminado o tempo de inatividade dos dados e aplicando as melhores práticas de observabilidade do DevOps aos pipelines de dados.
+
+## Estratégia de Dados
+
+**Estratégia de Negócio**: Planejamento estratégico de negócio.  
++  
+**Estratégia de Dados**: Estratégia de dados conectada a estratégia de negócio.  
+=  
+**Alavanca de resultados de negócio**: Alavanca os resultados de negócio e possibilita novas avenidas de negócio.  
