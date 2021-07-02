@@ -85,33 +85,33 @@ Dados + Processamento = Informação. (Com contexto baseados em negócios)
 
 ## Engenheiro de dados
 
-> Desempenha um papel fundamental na construção e gerenciamento de pipelines de dados e na promoção de casos de uso de dados e analises para produção (em linha com os processos de negócios)
+ Desempenha um papel fundamental na construção e gerenciamento de pipelines de dados e na promoção de casos de uso de dados e analises para produção (em linha com os processos de negócios)
 
 ## Arquiteto de dados
 
-> Planejamento do *design* da arquitetura de dados e construção do roadmap tecnológico alinhado aos objetivos de negócio.
+Planejamento do *design* da arquitetura de dados e construção do roadmap tecnológico alinhado aos objetivos de negócio.
 
 ## Analista de dados
 
-> Responsável pela parte inicial do processo em Ciência de Dados, como coleta de dados, limpeza, organização, transformação de pré-processamento de dados.
+Responsável pela parte inicial do processo em Ciência de Dados, como coleta de dados, limpeza, organização, transformação de pré-processamento de dados.
 
 ## Cientista de dados
 
-> Esse é o perfil de analise. Não de programador. O cientista de dados analisa problemas e encontra soluções. Para isso emprega conhecimento em estatística, Matemática, Machine Learning, Análise de Dados e Conhecimento na Área de Negócios.
+Esse é o perfil de analise. Não de programador. O cientista de dados analisa problemas e encontra soluções. Para isso emprega conhecimento em estatística, Matemática, Machine Learning, Análise de Dados e Conhecimento na Área de Negócios.
 
 ## DPO - Data Protection Officer
 
-> Com a lei Geral da Proteção de Dados(LGPD), o DPO também tornou um outro perfil de profissional especializado que atua com proteção de dados.
-> Além de conhecer bem o processo de Ciência de Dados, o DPO precisa conhecer as leis de proteção aos dados, suas implicações, regulamentação e segurança.
+Com a lei Geral da Proteção de Dados(LGPD), o DPO também tornou um outro perfil de profissional especializado que atua com proteção de dados.
+Além de conhecer bem o processo de Ciência de Dados, o DPO precisa conhecer as leis de proteção aos dados, suas implicações, regulamentação e segurança.
 
 ## DataOPS
 
-> É uma prática de gerenciamento de dados colaborativo focada em melhorar a comunicação, intregação e automação de fluxos de dados entre gerenciadores de dados e consumidores de dados em uma organização.
->O objetivo do DataOps é entregar valor com mais rapidez, criando entrega previsível e gerenciamento de mundanças de dados, modelos de dados e artefatos relacionados.
+É uma prática de gerenciamento de dados colaborativo focada em melhorar a comunicação, intregação e automação de fluxos de dados entre gerenciadores de dados e consumidores de dados em uma organização.
+O objetivo do DataOps é entregar valor com mais rapidez, criando entrega previsível e gerenciamento de mundanças de dados, modelos de dados e artefatos relacionados.
 
 ## Data Observability
 
-> É a capacidade de uma organização de compreender totalmente a integridade dos dados, eliminado o tempo de inatividade dos dados e aplicando as melhores práticas de observabilidade do DevOps aos pipelines de dados.
+É a capacidade de uma organização de compreender totalmente a integridade dos dados, eliminado o tempo de inatividade dos dados e aplicando as melhores práticas de observabilidade do DevOps aos pipelines de dados.
 
 ## Estratégia de Dados
 
