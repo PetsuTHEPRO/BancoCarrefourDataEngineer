@@ -12,9 +12,43 @@ Possui habilidades relacionadas ao desenvolvimento e arquitetura de software, al
 
 > Garantir que os dados estejam disponível para analise de forma segura.
 
-Nº | Etapa  |
----|--------|
-01 | Coleta |
-02 | Transoformação |
-03 | Armazenamento |
-04 | Disponibilidade |
+Nº | Etapa  | Procedimentos |
+---|--------|------------|
+01 | Coleta |Jobs(batch) e Realtime(streaming) | 
+02 | Transoformação | ETL e Pipelines |
+03 | Armazenamento | Banco de dados e Repositórios de arquivos |
+04 | Disponibilidade | API's, Arquivos e Banco de dados |
+
+## BI - Business Itelligence
+
+> Converter o volume de dados em informações relevantes para o negócios, por meio de relatórios analíticos.
+
+**Aplicações**
+- Query Report
+- Mineração de dados
+- Budget & Forecast
+- KPI's
+- Dashboards de Gestão
+
+**Ferramentas**
+
+- MicroStrategy
+- Google Data Studio
+- Looker
+- Microsoft Power BI
+- Tableau
+- QlikView
+- Board
+
+## Data Warehouse
+
+- Falta de credibilidade dos dados, consequência de extrações.
+- Baixa Produtividade.
+- Dificuldade em gerar informação a partir dos dados extraídos.
+
+**Definição**
+
+É uma arquitetura de armazenamento projetada para conter dados extraídos de sistemas de transções, armazenamentos de dados operacionais e fontes externas.
+
+Combina esses dados em um formulário de resumo agregado adequado para análise de dados em toda a empresa e relatórios para necessidades de negócios predefinidas.
+
