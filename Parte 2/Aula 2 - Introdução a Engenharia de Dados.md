@@ -54,7 +54,7 @@ Combina esses dados em um formulário de resumo agregado adequado para análise 
 
 ## OLTP vs OLAP
 
-Etapas | OLTP ||
+Etapas | OLTP | OLAP |
 --------|---------|-------|
 Foco| Operações do dia a dia | Suporte a decisão |
 Origem| Transações em tempo real da organização | Base de dados de sistemas transacionais |
@@ -95,10 +95,10 @@ Design| Normalizado | Desnormalizado |
 
 ## Data Marts
 
-> É um subconjunto de um data warehouse.
+ É um subconjunto de um data warehouse.
   
-> Orientado para uma única linha de negócio específica.
-
-> Contêm repositórios de dados resumidos coletados para análise em uma seção ou unidade específica dentro de uma organização.
-
-> ... Por exemplo, o departamento de vendas.
+ Orientado para uma única linha de negócio específica.
+  
+ Contêm repositórios de dados resumidos coletados para análise em uma seção ou unidade específica dentro de uma organização.
+  
+ ... Por exemplo, o departamento de vendas.
