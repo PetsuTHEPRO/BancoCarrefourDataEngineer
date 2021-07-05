@@ -16,6 +16,6 @@
  \sbin\          | cmd admin. |
  \srv\           | Serviços. |
  \usr\           | Usuários. |
- \var\           |  |
- \root\          | |
- \proc\          | |
+ \var\           | Históricos, Email. |
+ \root\          | Arquivos importantes do root. |
+ \proc\          | Virtual pelo kernel. |
