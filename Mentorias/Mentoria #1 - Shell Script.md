@@ -22,10 +22,9 @@ Mas onde o shell entra nesse cenário.
 
 "Organização é muito importante, principalmente com arquivos muito extensos."
 "Use atalhos(Tab) para melhorar a agilidade."
-
 "Use o vi no linux"
 
-> Código SHELL
+> Código SHELL Abordado na Aula
 
 ```
 cd /home/au_929001077/LIVEDIO/Sources/ ;
@@ -53,8 +52,32 @@ DATA=`ls -tr R06_??????_BR_DWH_${MASCARA}_????_*_*_*.txt | head -1 | cut
 
 status=$?;
 
+echo status a = $status >> ${MASCARA}_err.log;
+
+echo 5 >> ${MASCARA}_err.log 2>&1 ;
+
+echo 6 >> ${MASCARA}_err.log;
+
+
+ls -tr R06_??????_BR_DWH_${MASCARA}_????_${DATA}_*_*.txt > Arq_Lista_${MASCARA}.txt;
+
+echo 7 >> ${MASCARA}_err.log;
+
+status=$?;
+
+echo status b = $status >> ${MASCARA}_err.log;
+
+echo 8 >> ${MASCARA}_err.log
+
+echo [ODS_TSYS.WF:wf_D_TODS_TSYS_$MASCARA] >> Arq_CTL_${MASCARA}.txt;
+
+echo \$DBConnection_ODS=BI_ODS >> Arq_CTL_${MASCARA}.txt;
+echo \$DBConnection_STG=BI_STG >> Arq_CTL_${MASCARA}.txt;
+echo \$\$REFDATE=$DATA >> Arq_CTL_${MASCARA}.txt;
+
+#rm ${MASCARA}_err.log;
+
 ```
 
-
-> Coloque um comando entre ' ' para imprimir o resultado do comando.
-
+> Coloque um comando entre ` ` para imprimir o resultado do comando.
+use o "sh" para executar arquivos shell.
