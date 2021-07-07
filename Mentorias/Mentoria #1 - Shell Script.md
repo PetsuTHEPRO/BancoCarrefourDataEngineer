@@ -23,3 +23,38 @@ Mas onde o shell entra nesse cenário.
 "Organização é muito importante, principalmente com arquivos muito extensos."
 "Use atalhos(Tab) para melhorar a agilidade."
 
+"Use o vi no linux"
+
+> Código SHELL
+
+```
+cd /home/au_929001077/LIVEDIO/Sources/ ;
+
+MASCARA=AcqFeed_madresslinks;
+
+echo 1 > ${MASCARA}_err.log;
+
+QTD=`echo ${MASCARA} | wc -c`;
+
+echo 2 >> ${MASCARA}_err.log;
+
+#Qts de caracteres da prefixo + lote + mascara$
+QTD_INIT= `echo 24+QTD | bc `;
+
+echo 3 >> ${MASCARA}_err.log;
+
+#Qts de caracteres da prefixo + mascara + data$
+QTD_FIM=`echo 7+$QTD_INIT | bc` ;
+
+echo 4 >> ${MASCARA}_err.log;
+
+DATA=`ls -tr R06_??????_BR_DWH_${MASCARA}_????_*_*_*.txt | head -1 | cut 
+-c${QTD_INIT}-${QTD_FIM}` ;
+
+status=$?;
+
+```
+
+
+> Coloque um comando entre ' ' para imprimir o resultado do comando.
+
