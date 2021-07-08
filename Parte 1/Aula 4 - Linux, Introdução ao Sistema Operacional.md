@@ -39,4 +39,6 @@ Comandos importantes:
  "Use o --help para verificar as informações dos comandos."
 
  cat \etc\psswd | more - mostra todos os usuários do sistema.
- reboot - reinicia o sistam.
+ reboot - reinicia o sistema.
+ shutdown -h(opção) now(tempo) - Delisga o sistema.
+ lscpu - Mostra todasas informações de cpu.
