@@ -45,3 +45,12 @@ ls -lh:
 dono | grupo | outros
 
 chmod: muda a permissão de um arquivo ou diretório.
+
+## Modelo Octal
+
+ User(owner) | Group       | Other       |
+ ------------|-------------|-------------|
+  R  | W | X |  R  | W | X |  R  | W | X |
+  4  | 2 | 1 |  4  | 2 | 1 |  4  | 2 | 1 |
+
+cdmod 777 - Recebe todas as permissões!!
