@@ -22,3 +22,13 @@ Permitem organizar os usuários e definir as permissões de acesso de arquivos e
 cat/etc/group - mostra todos os grupos do sistema.
 
 group - mostra todosos grupos do usuário.
+
+addgroup - cria um grupo.
+
+adduser e gpasswd -a - adiciona um usuário ao um grupo.
+
+gpasswd -a - remove um usuário de um grupo.
+
+groupdel - remove um grupo.
+
+Lembrando "grep" você pode procura qualquer coisa pelo linux.
