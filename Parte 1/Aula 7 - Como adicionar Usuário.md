@@ -31,4 +31,17 @@ gpasswd -a - remove um usuário de um grupo.
 
 groupdel - remove um grupo.
 
-Lembrando "grep" você pode procura qualquer coisa pelo linux.
+**Lembrando "grep" você pode procura qualquer coisa pelo linux.**
+
+## Permissões
+
+em arquivos e diretórios servem para restringir acessos como: leitura, escritas e execução.
+-r
+-w
+-x
+
+ls -lh:
+
+dono | grupo | outros
+
+chmod: muda a permissão de um arquivo ou diretório.
